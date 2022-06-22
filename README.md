@@ -9,6 +9,7 @@
 ![https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://user-images.githubusercontent.com/105948700/174937338-f40882e1-fc50-4796-a2ee-503aaf4dbb01.png)
 ![https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white](https://camo.githubusercontent.com/9e6d7dc340da5c0e725f9ab6a961d27b0e7c00c3b10fc9c2ecebbcec08b915af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c617953746174696f6e2d3030333739313f7374796c653d666f722d7468652d6261646765266c6f676f3d706c617973746174696f6e266c6f676f436f6c6f723d7768697465)
 ![https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white](https://camo.githubusercontent.com/3e9398bdad51dbf89ff6d5d99a10065ca5e68118990ee04d4fdc5f9e56b3cbd4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7069637061792d3231433235453f7374796c653d666f722d7468652d6261646765266c6f676f3d706963706179266c6f676f436f6c6f723d7768697465)
+![https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
  
 Here are some ideas to get you started:
 
@@ -20,4 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<hr>
+
+<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+
+
 
