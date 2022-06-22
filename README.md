@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![FGOx](https://user-images.githubusercontent.com/105948700/174933449-374d1fda-7410-419a-a5a8-9356f693eac3.gif)
+![lights-d-iffuse](https://user-images.githubusercontent.com/105948700/174940695-0bfe8ced-320a-46d9-b03b-5d61599d9bbc.gif)
+
 
 [![LinkedIn-!-lightgrey](https://user-images.githubusercontent.com/105948700/174935724-0651e55c-120c-4d70-a457-186db1a5965b.svg)](https://www.linkedin.com/in/angelo-braga-duarte-11608aab/)
 
