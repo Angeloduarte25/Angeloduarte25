@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Angeloduarte25&theme=dark&show_icons=true"/>
 
 
 
