@@ -1,4 +1,4 @@
-<div align="center">>
+<div align="center">
   <h1 align="center">### Seja Bem Vindo ao GitHub de Angelo Duarte 😎</h1>
   <p align="center" img height="250cm" src="https://user-images.githubusercontent.com/105948700/175038399-e1df62a0-64b5-475a-b67e-150533910f5e.png">
   <img height="250cm" src="https://user-images.githubusercontent.com/105948700/175038399-e1df62a0-64b5-475a-b67e-150533910f5e.png"/>
