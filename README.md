@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<div>
- <img width="30%" align="center" valign="middle" src="https://user-images.githubusercontent.com/105948700/175026689-03e37d58-a72d-44b4-bfbe-ed0864611f07.png">
-</div>
+![foto1](https://user-images.githubusercontent.com/105948700/175031215-b58ccb70-9a2a-4b26-972c-45be42fc38ee.png)
 
-![foto1](https://user-images.githubusercontent.com/105948700/175026689-03e37d58-a72d-44b4-bfbe-ed0864611f07.png)
+![Sem título-2](https://user-images.githubusercontent.com/105948700/175031797-e2b73661-1c03-4766-9718-d217f039201e.png)
 
 [![LinkedIn-!-lightgrey](https://user-images.githubusercontent.com/105948700/174935724-0651e55c-120c-4d70-a457-186db1a5965b.svg)](https://www.linkedin.com/in/angelo-braga-duarte-11608aab/)
 
