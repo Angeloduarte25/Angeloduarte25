@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <div align="center">
    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Angeloduarte&theme=dark&show_icons=true"/>
-   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Angeloduarte&theme=dark&show_icons=true"/>
 </div>
 
 
