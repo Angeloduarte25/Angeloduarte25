@@ -1,9 +1,12 @@
 ### Seja Bem Vindo ao GitHub de Angelo Duarte 😎
+<div align="center">
+  <img height="250cm" src="https://user-images.githubusercontent.com/105948700/175038399-e1df62a0-64b5-475a-b67e-150533910f5e.png"/>
+</div>
 
-![foto2](https://user-images.githubusercontent.com/105948700/175038399-e1df62a0-64b5-475a-b67e-150533910f5e.png)
 
 [![LinkedIn-!-lightgrey](https://user-images.githubusercontent.com/105948700/174935724-0651e55c-120c-4d70-a457-186db1a5965b.svg)](https://www.linkedin.com/in/angelo-braga-duarte-11608aab/)
 
+ 
 <hr>
 
 ![https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://user-images.githubusercontent.com/105948700/174937338-f40882e1-fc50-4796-a2ee-503aaf4dbb01.png)
@@ -24,7 +27,9 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Angeloduarte25&theme=dark&show_icons=true"/>
-
+<div align="center">
+   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Angeloduarte&theme=dark&show_icons=true"/>
+   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Angeloduarte&theme=dark&show_icons=true"/>
+</div>
 
 
