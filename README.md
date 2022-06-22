@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![foto1](https://user-images.githubusercontent.com/105948700/175031215-b58ccb70-9a2a-4b26-972c-45be42fc38ee.png)
+<hr>
 
-![Sem título-2](https://user-images.githubusercontent.com/105948700/175031797-e2b73661-1c03-4766-9718-d217f039201e.png)
+![foto2](https://user-images.githubusercontent.com/105948700/175038399-e1df62a0-64b5-475a-b67e-150533910f5e.png)
+
+<hr>
 
 [![LinkedIn-!-lightgrey](https://user-images.githubusercontent.com/105948700/174935724-0651e55c-120c-4d70-a457-186db1a5965b.svg)](https://www.linkedin.com/in/angelo-braga-duarte-11608aab/)
 
