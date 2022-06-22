@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+ <img width="30%" align="center" valign="middle" src="https://user-images.githubusercontent.com/105948700/175026689-03e37d58-a72d-44b4-bfbe-ed0864611f07.png">
+</div>
+
+![foto1](https://user-images.githubusercontent.com/105948700/175026689-03e37d58-a72d-44b4-bfbe-ed0864611f07.png)
 
 [![LinkedIn-!-lightgrey](https://user-images.githubusercontent.com/105948700/174935724-0651e55c-120c-4d70-a457-186db1a5965b.svg)](https://www.linkedin.com/in/angelo-braga-duarte-11608aab/)
 
